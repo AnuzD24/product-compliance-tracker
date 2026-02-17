@@ -16,11 +16,8 @@ Compliance Tracking: Real regulatory standards (BIS, FSSAI, CDSCO, FDA, FCC, CE-
 Files:
 
 Product_Compliance_Tracker_215.xlsx - Main Excel file with 6 sheets
-Product_Compliance_150.csv - Raw data in CSV format
-compliance_150.db - SQLite database
+Product_Compliance_215.csv - Raw data in CSV format
 expanded_sql_queries.sql - 40 SQL queries
-SQL_PRACTICE_GUIDE.txt - SQL learning guide
-QUICK_START_GUIDE.txt - Complete instructions
 
 Excel Sheets:
 
