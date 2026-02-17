@@ -1,0 +1,216 @@
+Product_ID,Product_Name,Category,Country_of_Origin,Compliance_Status,Regulatory_Document,Review_Date,Reviewer_Name,Priority,Days_To_Review,Price_INR,Notes
+PROD001,OnePlus 11R 5G 128GB,Electronics,India,Approved,BIS,19-11-2025,Priya Sharma,Low,7,34999,Documentation complete
+PROD002,OnePlus Nord CE3 Lite 5G,Electronics,India,Approved,BIS,20-11-2025,Rajesh Kumar,Low,5,19999,Documentation complete
+PROD003,boAt Airdopes 131 TWS,Electronics,India,Pending Review,BIS,21-11-2025,Sneha Patel,High,18,1299,Battery certification required
+PROD004,boAt Rockerz 450 Bluetooth,Electronics,India,Approved,BIS,22-11-2025,Amit Singh,Low,6,1499,Documentation complete
+PROD005,boAt Stone 352 Bluetooth Spkr,Electronics,India,Re-submission Required,BIS,23-11-2025,Kavita Reddy,High,22,1799,Barcode format incorrect
+PROD006,Noise ColorFit Pro 4 Watch,Electronics,India,Pending Review,BIS,24-11-2025,Priya Sharma,High,14,2499,Testing report pending from lab
+PROD007,Noise Buds VS104 TWS,Electronics,India,Approved,BIS,25-11-2025,Rajesh Kumar,Low,4,999,Documentation complete
+PROD008,Portronics SoundDrum Speaker,Electronics,India,Rejected,BIS,26-11-2025,Sneha Patel,High,25,899,Packaging does not meet BIS standards
+PROD009,Realme Narzo 60 5G 128GB,Electronics,India,Approved,BIS,27-11-2025,Amit Singh,Medium,8,17999,Documentation complete
+PROD010,Realme 11 Pro Plus 5G,Electronics,India,Pending Review,BIS,28-11-2025,Kavita Reddy,High,11,27999,Label missing manufacturing date
+PROD011,Mi Power Bank 3i 20000mAh,Electronics,India,Approved,BIS,29-11-2025,Priya Sharma,Low,6,1799,Documentation complete
+PROD012,Mi Smart Band 7 Fitness Tracker,Electronics,India,Rejected,BIS,30-11-2025,Rajesh Kumar,High,20,2799,MRP not printed correctly
+PROD013,pTron Bassbuds Duo Earbuds,Electronics,India,Approved,BIS,01-12-2025,Sneha Patel,Low,5,699,Documentation complete
+PROD014,pTron Force X11 Smartwatch,Electronics,India,Re-submission Required,BIS,02-12-2025,Amit Singh,Medium,19,1299,Certification expired - renewal needed
+PROD015,Fire-Boltt Phoenix Smart Watch,Electronics,India,Approved,BIS,03-12-2025,Kavita Reddy,Low,7,1399,Documentation complete
+PROD016,Fire-Boltt Ninja Call Pro Plus,Electronics,India,Pending Review,BIS,04-12-2025,Priya Sharma,Medium,12,1699,Import duty classification unclear
+PROD017,Ambrane 10000mAh Power Bank,Electronics,India,Approved,BIS,05-12-2025,Rajesh Kumar,Low,4,699,Documentation complete
+PROD018,Syska 20W Fast Charger,Electronics,India,Rejected,BIS,06-12-2025,Sneha Patel,High,16,399,Product dimensions mismatch
+PROD019,Crossbeats Pebble Earbuds,Electronics,India,Approved,BIS,07-12-2025,Amit Singh,Low,6,1199,Documentation complete
+PROD020,Zebronics Zeb-Thunder Headphone,Electronics,India,Pending Review,BIS,08-12-2025,Kavita Reddy,Medium,10,799,Testing report pending from lab
+PROD021,Intex 2.1 Channel Speaker,Electronics,India,Approved,BIS,09-12-2025,Priya Sharma,Low,8,2499,Documentation complete
+PROD022,Micromax IN Note 2 64GB,Electronics,India,Re-submission Required,BIS,10-12-2025,Rajesh Kumar,High,24,12499,Trademark verification pending
+PROD023,Lava Blaze 5G 128GB,Electronics,India,Approved,BIS,11-12-2025,Sneha Patel,Low,9,10999,Documentation complete
+PROD024,Havells 1200mm Ceiling Fan,Electronics,India,Approved,BIS,12-12-2025,Amit Singh,Low,5,1899,Documentation complete
+PROD025,Bajaj Majesty 750W Mixer,Electronics,India,Rejected,BIS,13-12-2025,Kavita Reddy,High,21,2199,Packaging does not meet BIS standards
+PROD026,Syska 9W LED Bulb Pack of 4,Electronics,India,Approved,BIS,14-12-2025,Priya Sharma,Low,3,149,Documentation complete
+PROD027,Croma USB-C Cable 1m,Electronics,India,Pending Review,BIS,15-12-2025,Rajesh Kumar,Low,8,299,Awaiting customs clearance
+PROD028,Intex LED TV 32 inch,Electronics,India,Approved,BIS,16-12-2025,Sneha Patel,Medium,10,11999,Documentation complete
+PROD029,Usha Table Fan 400mm,Electronics,India,Re-submission Required,BIS,17-12-2025,Amit Singh,Medium,17,1699,Allergen declaration missing
+PROD030,iBall Musi Play A1 Speaker,Electronics,India,Approved,BIS,18-12-2025,Kavita Reddy,Low,6,1299,Documentation complete
+PROD031,MDH Chana Masala 100g,Food & Beverages,India,Approved,FSSAI,19-12-2025,Priya Sharma,Low,4,45,Documentation complete
+PROD032,MDH Garam Masala 100g,Food & Beverages,India,Approved,FSSAI,20-12-2025,Rajesh Kumar,Low,4,52,Documentation complete
+PROD033,Everest Turmeric Powder 200g,Food & Beverages,India,Pending Review,FSSAI,21-12-2025,Sneha Patel,Medium,9,85,Nutritional info incomplete
+PROD034,Everest Chilli Powder 100g,Food & Beverages,India,Approved,FSSAI,22-12-2025,Amit Singh,Low,5,65,Documentation complete
+PROD035,Amul Butter 500g,Food & Beverages,India,Approved,FSSAI,23-12-2025,Kavita Reddy,Low,3,285,Documentation complete
+PROD036,Amul Cheese Slices 200g,Food & Beverages,India,Approved,FSSAI,24-12-2025,Priya Sharma,Low,4,135,Documentation complete
+PROD037,Amul Fresh Milk 1 Litre,Food & Beverages,India,Rejected,FSSAI,25-12-2025,Rajesh Kumar,High,18,62,Expiry date format non-compliant
+PROD038,Mother Dairy Ghee 500ml,Food & Beverages,India,Approved,FSSAI,26-12-2025,Sneha Patel,Low,6,335,Documentation complete
+PROD039,Parle-G Biscuits 1kg Pack,Food & Beverages,India,Approved,FSSAI,27-12-2025,Amit Singh,Low,4,120,Documentation complete
+PROD040,Parle Monaco Biscuits 300g,Food & Beverages,India,Pending Review,FSSAI,28-12-2025,Kavita Reddy,Medium,7,40,Barcode format incorrect
+PROD041,Britannia Good Day 200g,Food & Beverages,India,Approved,FSSAI,29-12-2025,Priya Sharma,Low,3,35,Documentation complete
+PROD042,Britannia Marie Gold 250g,Food & Beverages,India,Approved,FSSAI,30-12-2025,Rajesh Kumar,Low,3,32,Documentation complete
+PROD043,Tata Tea Gold 1kg,Food & Beverages,India,Approved,FSSAI,31-12-2025,Sneha Patel,Low,5,425,Documentation complete
+PROD044,Tata Tea Premium 500g,Food & Beverages,India,Re-submission Required,FSSAI,01-01-2026,Amit Singh,Medium,15,220,Label missing manufacturing date
+PROD045,Red Label Tea 1kg,Food & Beverages,India,Approved,FSSAI,02-01-2026,Kavita Reddy,Low,5,395,Documentation complete
+PROD046,Nescafe Classic Coffee 50g,Food & Beverages,India,Pending Review,FSSAI,03-01-2026,Priya Sharma,High,13,185,Foreign language text needs translation
+PROD047,Bru Instant Coffee 100g,Food & Beverages,India,Approved,FSSAI,04-01-2026,Rajesh Kumar,Low,6,299,Documentation complete
+PROD048,Haldiram Bhujia 400g,Food & Beverages,India,Approved,FSSAI,05-01-2026,Sneha Patel,Low,4,95,Documentation complete
+PROD049,Haldiram Namkeen Mix 200g,Food & Beverages,India,Rejected,FSSAI,06-01-2026,Amit Singh,High,22,55,Packaging does not meet FSSAI standards
+PROD050,Bikaji Aloo Bhujia 200g,Food & Beverages,India,Approved,FSSAI,07-01-2026,Kavita Reddy,Low,4,45,Documentation complete
+PROD051,Maggi 2-Minute Noodles 560g,Food & Beverages,India,Approved,FSSAI,08-01-2026,Priya Sharma,Low,4,115,Documentation complete
+PROD052,India Gate Basmati Rice 1kg,Food & Beverages,India,Pending Review,FSSAI,09-01-2026,Rajesh Kumar,Medium,8,165,Seller registration verification pending
+PROD053,Fortune Sunflower Oil 5L,Food & Beverages,India,Approved,FSSAI,10-01-2026,Sneha Patel,Low,7,725,Documentation complete
+PROD054,Tata Salt 1kg,Food & Beverages,India,Approved,FSSAI,11-01-2026,Amit Singh,Low,2,22,Documentation complete
+PROD055,Aashirvaad Atta 5kg,Food & Beverages,India,Approved,FSSAI,12-01-2026,Kavita Reddy,Low,5,245,Documentation complete
+PROD056,Patanjali Honey 500g,Food & Beverages,India,Re-submission Required,FSSAI,13-01-2026,Priya Sharma,High,20,225,Allergen declaration missing
+PROD057,Dabur Chyawanprash 500g,Food & Beverages,India,Approved,FSSAI,14-01-2026,Rajesh Kumar,Low,6,285,Documentation complete
+PROD058,Kissan Mixed Fruit Jam 500g,Food & Beverages,India,Approved,FSSAI,15-01-2026,Sneha Patel,Low,5,175,Documentation complete
+PROD059,MTR Ready to Eat Masala Dosa,Food & Beverages,India,Rejected,FSSAI,16-01-2026,Amit Singh,High,19,75,Expiry date format non-compliant
+PROD060,Top Ramen Noodles 280g,Food & Beverages,India,Approved,FSSAI,17-01-2026,Kavita Reddy,Low,4,85,Documentation complete
+PROD061,Mamaearth Vitamin C Serum 30ml,Cosmetics,India,Approved,CDSCO,18-01-2026,Priya Sharma,Low,6,599,Documentation complete
+PROD062,Mamaearth Onion Hair Oil 250ml,Cosmetics,India,Pending Review,CDSCO,19-01-2026,Rajesh Kumar,Medium,11,399,Testing report pending from lab
+PROD063,Biotique Bio Kelp Shampoo 340ml,Cosmetics,India,Approved,CDSCO,20-01-2026,Sneha Patel,Low,5,185,Documentation complete
+PROD064,Biotique Honey Gel Face Wash,Cosmetics,India,Approved,CDSCO,21-01-2026,Amit Singh,Low,5,145,Documentation complete
+PROD065,Lakme 9to5 Lipstick,Cosmetics,India,Rejected,CDSCO,22-01-2026,Kavita Reddy,High,17,375,Product dimensions mismatch
+PROD066,Lakme Absolute Foundation 25ml,Cosmetics,India,Approved,CDSCO,23-01-2026,Priya Sharma,Low,7,650,Documentation complete
+PROD067,Plum Green Tea Face Wash 75ml,Cosmetics,India,Approved,CDSCO,24-01-2026,Rajesh Kumar,Low,6,349,Documentation complete
+PROD068,Plum Niacinamide Serum 30ml,Cosmetics,India,Pending Review,CDSCO,25-01-2026,Sneha Patel,High,14,495,Certification expired - renewal needed
+PROD069,WOW Onion Hair Oil 200ml,Cosmetics,India,Approved,CDSCO,26-01-2026,Amit Singh,Low,6,449,Documentation complete
+PROD070,WOW Apple Cider Vinegar Shampoo,Cosmetics,India,Re-submission Required,CDSCO,27-01-2026,Kavita Reddy,Medium,16,399,Missing ingredient list translation
+PROD071,Himalaya Neem Face Wash 150ml,Cosmetics,India,Approved,CDSCO,28-01-2026,Priya Sharma,Low,5,145,Documentation complete
+PROD072,Himalaya Anti-Hair Fall Shampoo,Cosmetics,India,Approved,CDSCO,29-01-2026,Rajesh Kumar,Low,5,175,Documentation complete
+PROD073,Dabur Amla Hair Oil 450ml,Cosmetics,India,Pending Review,CDSCO,30-01-2026,Sneha Patel,Medium,10,199,Barcode format incorrect
+PROD074,Patanjali Kesh Kanti Shampoo,Cosmetics,India,Approved,CDSCO,31-01-2026,Amit Singh,Low,4,140,Documentation complete
+PROD075,Patanjali Aloe Vera Gel 150ml,Cosmetics,India,Approved,CDSCO,01-02-2026,Kavita Reddy,Low,4,115,Documentation complete
+PROD076,Lotus Herbals Whiteglow Cream,Cosmetics,India,Rejected,CDSCO,02-02-2026,Priya Sharma,High,23,295,Packaging does not meet CDSCO standards
+PROD077,Beardo Beard Oil 30ml,Cosmetics,India,Approved,CDSCO,03-02-2026,Rajesh Kumar,Low,6,349,Documentation complete
+PROD078,The Man Company Beard Wax,Cosmetics,India,Approved,CDSCO,04-02-2026,Sneha Patel,Low,5,299,Documentation complete
+PROD079,Sugar Cosmetics Matte Lipstick,Cosmetics,India,Pending Review,CDSCO,05-02-2026,Amit Singh,Medium,9,499,Seller registration verification pending
+PROD080,Nykaa Kajal Black Magic,Cosmetics,India,Approved,CDSCO,06-02-2026,Kavita Reddy,Low,5,249,Documentation complete
+PROD081,Colorbar Nail Polish Exclusive,Cosmetics,India,Approved,CDSCO,07-02-2026,Priya Sharma,Low,4,175,Documentation complete
+PROD082,Joy Skin Fruits Face Wash 100ml,Cosmetics,India,Re-submission Required,CDSCO,08-02-2026,Rajesh Kumar,Medium,14,99,Label missing manufacturing date
+PROD083,Forest Essentials Face Serum,Cosmetics,India,Approved,CDSCO,09-02-2026,Sneha Patel,Low,8,1850,Documentation complete
+PROD084,Kama Ayurveda Face Oil 12ml,Cosmetics,India,Approved,CDSCO,10-02-2026,Amit Singh,Low,7,995,Documentation complete
+PROD085,Shahnaz Husain Gold Facial Kit,Cosmetics,India,Pending Review,CDSCO,11-02-2026,Kavita Reddy,High,12,525,Testing report pending from lab
+PROD086,Funskool Giggles Melody Bear,Toys,India,Approved,BIS,12-02-2026,Priya Sharma,Low,5,699,Documentation complete
+PROD087,Funskool Play & Learn Doh Set,Toys,India,Approved,BIS,13-02-2026,Rajesh Kumar,Low,4,399,Documentation complete
+PROD088,Luvlap Baby Rattle Set 5pcs,Toys,India,Pending Review,BIS,14-02-2026,Sneha Patel,High,16,299,Child safety test results needed
+PROD089,Ratnas Educational Blocks,Toys,India,Approved,BIS,15-02-2026,Amit Singh,Low,5,450,Documentation complete
+PROD090,Chhota Bheem Action Figure,Toys,India,Rejected,BIS,16-02-2026,Kavita Reddy,High,20,349,Barcode format incorrect
+PROD091,Smartcraft Wooden Puzzle 24pcs,Toys,India,Approved,BIS,19-11-2025,Priya Sharma,Low,4,275,Documentation complete
+PROD092,Toyshine Musical Train Toy,Toys,India,Re-submission Required,BIS,20-11-2025,Rajesh Kumar,Medium,13,599,Packaging does not meet BIS standards
+PROD093,Babyhug Soft Teddy Bear 30cm,Toys,India,Approved,BIS,21-11-2025,Sneha Patel,Low,5,399,Documentation complete
+PROD094,Little Genius Alphabet Blocks,Toys,India,Approved,BIS,22-11-2025,Amit Singh,Low,4,325,Documentation complete
+PROD095,Mitashi Skykidz Musical Piano,Toys,India,Pending Review,BIS,23-11-2025,Kavita Reddy,Medium,11,899,Testing report pending from lab
+PROD096,Prestige Omega Deluxe Cooker 5L,Home & Kitchen,India,Approved,BIS,24-11-2025,Priya Sharma,Low,7,2150,Documentation complete
+PROD097,Prestige Induction Base Kadai,Home & Kitchen,India,Approved,BIS,25-11-2025,Rajesh Kumar,Low,6,1299,Documentation complete
+PROD098,Hawkins Contura Hard Anodised,Home & Kitchen,India,Pending Review,BIS,26-11-2025,Sneha Patel,Medium,10,2599,Seller registration verification pending
+PROD099,Pigeon Stovekraft Cooker 3L,Home & Kitchen,India,Approved,BIS,27-11-2025,Amit Singh,Low,6,1799,Documentation complete
+PROD100,Milton Duo Flask 1000ml,Home & Kitchen,India,Approved,BIS,28-11-2025,Kavita Reddy,Low,4,649,Documentation complete
+PROD101,Milton Lunch Box 4 Containers,Home & Kitchen,India,Re-submission Required,BIS,29-11-2025,Priya Sharma,Medium,14,799,MRP not printed correctly
+PROD102,Cello Opalware Dinner Set 27pc,Home & Kitchen,India,Approved,BIS,30-11-2025,Rajesh Kumar,Low,7,1899,Documentation complete
+PROD103,Borosil Glass Bowl Set 6pcs,Home & Kitchen,India,Approved,BIS,01-12-2025,Sneha Patel,Low,5,699,Documentation complete
+PROD104,Butterfly Smart Glass Kettle,Home & Kitchen,India,Rejected,BIS,02-12-2025,Amit Singh,High,19,1199,Certification expired - renewal needed
+PROD105,Baltra Mixer Grinder 500W,Home & Kitchen,India,Approved,BIS,03-12-2025,Kavita Reddy,Low,7,2399,Documentation complete
+PROD106,Inalsa Mixer Grinder Astra,Home & Kitchen,India,Pending Review,BIS,04-12-2025,Priya Sharma,Medium,9,2799,Import duty classification unclear
+PROD107,Wipro LED Bulb 9W Pack of 4,Home & Kitchen,India,Approved,BIS,05-12-2025,Rajesh Kumar,Low,4,399,Documentation complete
+PROD108,Wonderchef Gas Stove 3 Burner,Home & Kitchen,India,Approved,BIS,06-12-2025,Sneha Patel,Medium,8,4999,Documentation complete
+PROD109,Croma Iron Box 1200W,Home & Kitchen,India,Approved,BIS,07-12-2025,Amit Singh,Low,5,899,Documentation complete
+PROD110,Crompton Greaves Water Heater,Home & Kitchen,India,Re-submission Required,BIS,08-12-2025,Kavita Reddy,High,21,3499,Product dimensions mismatch
+PROD111,Apple iPhone 15 Pro 256GB,Electronics,USA,Pending Review,FCC,09-12-2025,Priya Sharma,High,15,134900,Import duty classification unclear
+PROD112,Apple iPhone 14 128GB,Electronics,USA,Approved,FCC,10-12-2025,Rajesh Kumar,Low,9,69900,Documentation complete
+PROD113,Apple AirPods Pro 2nd Gen,Electronics,USA,Approved,FCC,11-12-2025,Sneha Patel,Low,8,26900,Documentation complete
+PROD114,Apple Watch Series 9 GPS 41mm,Electronics,USA,Rejected,FCC,12-12-2025,Amit Singh,High,23,41900,Barcode format incorrect
+PROD115,Samsung Galaxy S24 Ultra 256GB,Electronics,South Korea,Approved,FCC,13-12-2025,Kavita Reddy,Low,10,129999,Documentation complete
+PROD116,Samsung Galaxy S23 FE 128GB,Electronics,South Korea,Pending Review,FCC,14-12-2025,Priya Sharma,Medium,12,59999,Testing report pending from lab
+PROD117,Samsung Galaxy Buds2 Pro,Electronics,South Korea,Approved,FCC,15-12-2025,Rajesh Kumar,Low,7,17999,Documentation complete
+PROD118,Samsung 43 inch Smart TV,Electronics,South Korea,Re-submission Required,FCC,16-12-2025,Sneha Patel,High,20,32999,Missing ingredient list translation
+PROD119,Sony WH-1000XM5 Headphones,Electronics,Japan,Approved,CE-Mark,17-12-2025,Amit Singh,Low,9,29990,Documentation complete
+PROD120,Sony PlayStation 5 Console,Electronics,Japan,Pending Review,CE-Mark,18-12-2025,Kavita Reddy,High,17,54990,Awaiting customs clearance
+PROD121,Sony Bravia 55 inch 4K TV,Electronics,Japan,Approved,CE-Mark,19-12-2025,Priya Sharma,Low,10,79990,Documentation complete
+PROD122,Dell XPS 13 Laptop 13th Gen,Electronics,USA,Rejected,FCC,20-12-2025,Rajesh Kumar,High,25,94990,Packaging does not meet FCC standards
+PROD123,HP Pavilion 15 Laptop,Electronics,USA,Approved,FCC,21-12-2025,Sneha Patel,Medium,11,54990,Documentation complete
+PROD124,Lenovo ThinkPad E14 Laptop,Electronics,China,Approved,FCC,22-12-2025,Amit Singh,Low,9,49990,Documentation complete
+PROD125,Asus VivoBook 15 Laptop,Electronics,Taiwan,Pending Review,CE-Mark,23-12-2025,Kavita Reddy,Medium,13,39990,Seller registration verification pending
+PROD126,JBL Flip 6 Bluetooth Speaker,Electronics,USA,Approved,FCC,24-12-2025,Priya Sharma,Low,7,12999,Documentation complete
+PROD127,JBL Tune 510BT Headphones,Electronics,USA,Approved,FCC,25-12-2025,Rajesh Kumar,Low,5,2999,Documentation complete
+PROD128,Bose QuietComfort 45,Electronics,USA,Re-submission Required,FCC,26-12-2025,Sneha Patel,High,22,32900,Certification expired - renewal needed
+PROD129,Marshall Major IV Bluetooth,Electronics,UK,Approved,CE-Mark,27-12-2025,Amit Singh,Low,8,12999,Documentation complete
+PROD130,GoPro HERO11 Black Camera,Electronics,USA,Pending Review,FCC,28-12-2025,Kavita Reddy,High,14,44999,Import duty classification unclear
+PROD131,Canon EOS 1500D DSLR Camera,Electronics,Japan,Approved,CE-Mark,29-12-2025,Priya Sharma,Low,9,34999,Documentation complete
+PROD132,Nikon D3500 DSLR Camera,Electronics,Japan,Approved,CE-Mark,30-12-2025,Rajesh Kumar,Low,8,31999,Documentation complete
+PROD133,Nintendo Switch OLED Console,Electronics,Japan,Rejected,FCC,31-12-2025,Sneha Patel,High,24,33999,MRP not printed correctly
+PROD134,Xbox Series S Console 512GB,Electronics,USA,Approved,FCC,01-01-2026,Amit Singh,Medium,10,37990,Documentation complete
+PROD135,Logitech MX Master 3S Mouse,Electronics,Switzerland,Approved,CE-Mark,02-01-2026,Kavita Reddy,Low,6,8995,Documentation complete
+PROD136,Logitech K380 Keyboard,Electronics,Switzerland,Pending Review,CE-Mark,03-01-2026,Priya Sharma,Low,8,2795,Barcode format incorrect
+PROD137,Anker PowerCore 20000mAh,Electronics,China,Approved,FCC,04-01-2026,Rajesh Kumar,Low,5,2999,Documentation complete
+PROD138,Belkin USB-C Hub 7-in-1,Electronics,USA,Re-submission Required,FCC,05-01-2026,Sneha Patel,Medium,16,5499,Product dimensions mismatch
+PROD139,SanDisk Extreme 256GB microSD,Electronics,USA,Approved,FCC,06-01-2026,Amit Singh,Low,5,2799,Documentation complete
+PROD140,Western Digital 1TB SSD,Electronics,USA,Approved,FCC,07-01-2026,Kavita Reddy,Low,6,6999,Documentation complete
+PROD141,Seagate 2TB External HDD,Electronics,USA,Approved,FCC,08-01-2026,Priya Sharma,Low,6,5499,Documentation complete
+PROD142,TP-Link WiFi Router Archer C6,Electronics,China,Pending Review,FCC,09-01-2026,Rajesh Kumar,Medium,10,2199,Testing report pending from lab
+PROD143,Amazon Echo Dot 5th Gen,Electronics,USA,Approved,FCC,10-01-2026,Sneha Patel,Low,7,4999,Documentation complete
+PROD144,Roku Streaming Stick 4K,Electronics,USA,Rejected,FCC,11-01-2026,Amit Singh,High,18,3999,Label missing manufacturing date
+PROD145,Netgear Nighthawk Router,Electronics,USA,Approved,FCC,12-01-2026,Kavita Reddy,Low,8,12999,Documentation complete
+PROD146,Kellogg's Corn Flakes 875g,Food & Beverages,USA,Approved,FDA,13-01-2026,Priya Sharma,Low,6,365,Documentation complete
+PROD147,Kellogg's Chocos 375g,Food & Beverages,USA,Pending Review,FDA,14-01-2026,Rajesh Kumar,Medium,11,215,Nutritional info incomplete
+PROD148,Nestle KitKat 4 Finger 41.5g,Food & Beverages,Switzerland,Approved,FDA,15-01-2026,Sneha Patel,Low,4,40,Documentation complete
+PROD149,Nestle Munch Chocolate 10.1g,Food & Beverages,Switzerland,Approved,FDA,16-01-2026,Amit Singh,Low,3,10,Documentation complete
+PROD150,Coca-Cola 2.25L Bottle,Food & Beverages,USA,Approved,FDA,17-01-2026,Kavita Reddy,Low,5,90,Documentation complete
+PROD151,Pepsi 750ml Bottle,Food & Beverages,USA,Pending Review,FDA,18-01-2026,Priya Sharma,Low,7,40,Seller registration verification pending
+PROD152,Red Bull Energy Drink 250ml,Food & Beverages,Austria,Approved,CE-Mark,19-01-2026,Rajesh Kumar,Low,6,125,Documentation complete
+PROD153,Monster Energy Drink 500ml,Food & Beverages,USA,Rejected,FDA,20-01-2026,Sneha Patel,High,20,150,Allergen declaration missing
+PROD154,Ferrero Rocher 16pcs,Food & Beverages,Italy,Approved,CE-Mark,21-01-2026,Amit Singh,Low,6,399,Documentation complete
+PROD155,Lindt Lindor Milk Choc 200g,Food & Beverages,Switzerland,Approved,CE-Mark,22-01-2026,Kavita Reddy,Low,7,750,Documentation complete
+PROD156,Toblerone Swiss Milk 100g,Food & Beverages,Switzerland,Pending Review,CE-Mark,23-01-2026,Priya Sharma,Medium,10,275,Foreign language text needs translation
+PROD157,Cadbury Dairy Milk 165g,Food & Beverages,UK,Approved,CE-Mark,24-01-2026,Rajesh Kumar,Low,5,130,Documentation complete
+PROD158,Lay's Classic Salted Chips 52g,Food & Beverages,USA,Approved,FDA,25-01-2026,Sneha Patel,Low,3,20,Documentation complete
+PROD159,Doritos Nacho Cheese 150g,Food & Beverages,USA,Re-submission Required,FDA,26-01-2026,Amit Singh,Medium,14,75,Barcode format incorrect
+PROD160,Pringles Original 107g,Food & Beverages,USA,Approved,FDA,27-01-2026,Kavita Reddy,Low,5,125,Documentation complete
+PROD161,Oreo Original Cookies 300g,Food & Beverages,USA,Approved,FDA,28-01-2026,Priya Sharma,Low,4,50,Documentation complete
+PROD162,McVitie's Digestive 400g,Food & Beverages,UK,Rejected,CE-Mark,29-01-2026,Rajesh Kumar,High,17,145,Expiry date format non-compliant
+PROD163,Nutella Hazelnut Spread 350g,Food & Beverages,Italy,Approved,CE-Mark,30-01-2026,Sneha Patel,Low,6,375,Documentation complete
+PROD164,Hershey's Chocolate Syrup 623g,Food & Beverages,USA,Approved,FDA,31-01-2026,Amit Singh,Low,6,299,Documentation complete
+PROD165,Heinz Tomato Ketchup 910g,Food & Beverages,USA,Pending Review,FDA,01-02-2026,Kavita Reddy,Medium,9,265,Packaging does not meet FDA standards
+PROD166,Lipton Green Tea 25 Bags,Food & Beverages,UK,Approved,CE-Mark,02-02-2026,Priya Sharma,Low,5,165,Documentation complete
+PROD167,Starbucks Pike Place Coffee 200g,Food & Beverages,USA,Approved,FDA,03-02-2026,Rajesh Kumar,Medium,8,850,Documentation complete
+PROD168,Ben & Jerry's Ice Cream 473ml,Food & Beverages,USA,Re-submission Required,FDA,04-02-2026,Sneha Patel,High,23,565,Cold chain compliance check needed
+PROD169,Haagen-Dazs Vanilla 500ml,Food & Beverages,USA,Approved,FDA,05-02-2026,Amit Singh,Low,7,525,Documentation complete
+PROD170,Lay's Magic Masala 73g,Food & Beverages,USA,Approved,FDA,06-02-2026,Kavita Reddy,Low,3,20,Documentation complete
+PROD171,Maybelline Fit Me Foundation,Cosmetics,USA,Approved,FDA,07-02-2026,Priya Sharma,Low,6,499,Documentation complete
+PROD172,Maybelline SuperStay Lipstick,Cosmetics,USA,Pending Review,FDA,08-02-2026,Rajesh Kumar,Medium,10,699,Testing report pending from lab
+PROD173,L'Oreal Paris Shampoo 704ml,Cosmetics,France,Approved,CE-Mark,09-02-2026,Sneha Patel,Low,6,385,Documentation complete
+PROD174,L'Oreal Revitalift Cream,Cosmetics,France,Approved,CE-Mark,10-02-2026,Amit Singh,Low,7,799,Documentation complete
+PROD175,Nivea Soft Moisturising Cream,Cosmetics,Germany,Rejected,CE-Mark,11-02-2026,Kavita Reddy,High,19,299,Missing ingredient list translation
+PROD176,Nivea Men Face Wash 100g,Cosmetics,Germany,Approved,CE-Mark,12-02-2026,Priya Sharma,Low,5,165,Documentation complete
+PROD177,The Body Shop Tea Tree Oil 20ml,Cosmetics,UK,Approved,CE-Mark,13-02-2026,Rajesh Kumar,Low,7,995,Documentation complete
+PROD178,The Body Shop Shea Butter 200ml,Cosmetics,UK,Pending Review,CE-Mark,14-02-2026,Sneha Patel,Medium,12,1095,Seller registration verification pending
+PROD179,Garnier Micellar Water 400ml,Cosmetics,France,Approved,CE-Mark,15-02-2026,Amit Singh,Low,6,399,Documentation complete
+PROD180,Garnier Men Face Wash 100g,Cosmetics,France,Approved,CE-Mark,16-02-2026,Kavita Reddy,Low,5,175,Documentation complete
+PROD181,Neutrogena Deep Clean Facial,Cosmetics,USA,Re-submission Required,FDA,19-11-2025,Priya Sharma,Medium,15,399,Barcode format incorrect
+PROD182,Neutrogena Hydro Boost Gel,Cosmetics,USA,Approved,FDA,20-11-2025,Rajesh Kumar,Low,7,699,Documentation complete
+PROD183,Dove Soap Bar 125g Pack of 3,Cosmetics,UK,Approved,CE-Mark,21-11-2025,Sneha Patel,Low,4,195,Documentation complete
+PROD184,Dove Shampoo 650ml,Cosmetics,UK,Approved,CE-Mark,22-11-2025,Amit Singh,Low,6,399,Documentation complete
+PROD185,Pantene Hair Conditioner 340ml,Cosmetics,USA,Pending Review,FDA,23-11-2025,Kavita Reddy,Medium,11,375,Label missing manufacturing date
+PROD186,Head & Shoulders Shampoo 650ml,Cosmetics,USA,Approved,FDA,24-11-2025,Priya Sharma,Low,7,595,Documentation complete
+PROD187,Vaseline Petroleum Jelly 250ml,Cosmetics,UK,Approved,CE-Mark,25-11-2025,Rajesh Kumar,Low,5,199,Documentation complete
+PROD188,Johnson's Baby Lotion 500ml,Cosmetics,USA,Rejected,FDA,26-11-2025,Sneha Patel,High,21,325,Allergen declaration missing
+PROD189,Olay Regenerist Cream 50g,Cosmetics,USA,Approved,FDA,27-11-2025,Amit Singh,Low,8,1299,Documentation complete
+PROD190,Gillette Fusion5 Razor,Cosmetics,USA,Re-submission Required,FDA,28-11-2025,Kavita Reddy,High,18,349,Product dimensions mismatch
+PROD191,LEGO City Police Station 60316,Toys,Denmark,Approved,CE-Mark,29-11-2025,Priya Sharma,Low,8,4999,Documentation complete
+PROD192,LEGO Star Wars AT-AT 75313,Toys,Denmark,Pending Review,CE-Mark,30-11-2025,Rajesh Kumar,High,16,16999,Import duty classification unclear
+PROD193,LEGO Classic Creative Bricks,Toys,Denmark,Approved,CE-Mark,01-12-2025,Sneha Patel,Low,6,2499,Documentation complete
+PROD194,Hot Wheels Track Set 5 Cars,Toys,USA,Approved,CPSC,02-12-2025,Amit Singh,Low,5,1499,Documentation complete
+PROD195,Hot Wheels Monster Truck,Toys,USA,Rejected,CPSC,03-12-2025,Kavita Reddy,High,22,899,Child safety test results needed
+PROD196,Barbie Dreamhouse Playset,Toys,USA,Approved,CPSC,04-12-2025,Priya Sharma,Medium,9,12999,Documentation complete
+PROD197,Barbie Fashionistas Doll,Toys,USA,Approved,CPSC,05-12-2025,Rajesh Kumar,Low,5,1299,Documentation complete
+PROD198,Fisher Price Baby Gym Mat,Toys,USA,Pending Review,CPSC,06-12-2025,Sneha Patel,High,14,3499,Child safety test results needed
+PROD199,Fisher Price Laugh & Learn,Toys,USA,Approved,CPSC,07-12-2025,Amit Singh,Low,7,2799,Documentation complete
+PROD200,Nerf Elite 2.0 Blaster,Toys,USA,Re-submission Required,CPSC,08-12-2025,Kavita Reddy,Medium,13,1999,Packaging does not meet CPSC standards
+PROD201,Play-Doh Modelling Compound 20pk,Toys,USA,Approved,CPSC,09-12-2025,Priya Sharma,Low,5,899,Documentation complete
+PROD202,Monopoly Classic Board Game,Toys,USA,Approved,CPSC,10-12-2025,Rajesh Kumar,Low,6,1599,Documentation complete
+PROD203,UNO Card Game Original,Toys,USA,Approved,CPSC,11-12-2025,Sneha Patel,Low,3,249,Documentation complete
+PROD204,Rubik's Cube 3x3 Original,Toys,Hungary,Pending Review,CE-Mark,12-12-2025,Amit Singh,Low,9,799,Barcode format incorrect
+PROD205,Transformers Optimus Prime,Toys,USA,Approved,CPSC,13-12-2025,Kavita Reddy,Low,7,2499,Documentation complete
+PROD206,Philips Air Fryer HD9252 4.1L,Home & Kitchen,Netherlands,Approved,CE-Mark,14-12-2025,Priya Sharma,Low,9,8995,Documentation complete
+PROD207,Philips Daily Collection Kettle,Home & Kitchen,Netherlands,Pending Review,CE-Mark,15-12-2025,Rajesh Kumar,Medium,11,1895,Testing report pending from lab
+PROD208,Tefal Frying Pan 26cm,Home & Kitchen,France,Approved,CE-Mark,16-12-2025,Sneha Patel,Low,7,1799,Documentation complete
+PROD209,Tefal Induction Cookware Set,Home & Kitchen,France,Rejected,CE-Mark,17-12-2025,Amit Singh,High,20,6999,Certification expired - renewal needed
+PROD210,Pyrex Glass Bowl Set 3pcs,Home & Kitchen,USA,Approved,FDA,18-12-2025,Kavita Reddy,Low,6,1499,Documentation complete
+PROD211,Tupperware Storage Set,Home & Kitchen,USA,Approved,FDA,19-12-2025,Priya Sharma,Low,7,2199,Documentation complete
+PROD212,OXO Good Grips Kitchen Tools,Home & Kitchen,USA,Re-submission Required,FDA,20-12-2025,Rajesh Kumar,Medium,15,1899,Product dimensions mismatch
+PROD213,KitchenAid Stand Mixer Classic,Home & Kitchen,USA,Approved,FDA,21-12-2025,Sneha Patel,Low,11,34990,Documentation complete
+PROD214,Dyson V11 Vacuum Cleaner,Home & Kitchen,UK,Pending Review,CE-Mark,22-12-2025,Amit Singh,High,18,49900,Import duty classification unclear
+PROD215,iRobot Roomba Vacuum Robot,Home & Kitchen,USA,Approved,FCC,23-12-2025,Kavita Reddy,Low,10,29990,Documentation complete
